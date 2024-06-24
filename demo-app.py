@@ -98,7 +98,7 @@ def add_bg_from_local(image_file):
     )
 
 # Adding the background from local image
-add_bg_from_local('CS231-final-project/background.png')
+add_bg_from_local('background.png')
 
 # Streamlit application layout
 st.title("Flower Image Classification Demo")
